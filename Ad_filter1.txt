@@ -1,4 +1,4 @@
-!
+! https://ghproxy.com/https://raw.githubusercontent.com/hkwpc/AD_rulesDIY/main/Ad_filter1.txt
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
